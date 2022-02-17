@@ -1,0 +1,5 @@
+pandas
+nltk
+strsimpy
+kaggle
+tqdm
